@@ -19,7 +19,7 @@ Si sobreviven zombies, devuelve su poder seguido de "z", por ejemplo "3z".
 Si sobreviven humanos, devuelve su poder seguido de "h", por ejemplo "2h".  
 Si hay un empate y ninguno queda con poder al final, devuelve "x".  
 
-** Importante: Las dos cadenas siempre tendrán la misma longitud. **
+**Importante: Las dos cadenas siempre tendrán la misma longitud.**
 
 ```js
 const zombies = '242';
