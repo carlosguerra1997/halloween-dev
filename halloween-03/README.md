@@ -21,7 +21,7 @@ const dream = [
   [4, 2, 1]
 ]
 
-const bestPath = findSafestPath(dream)  // Devuelve 7
+const bestPath = findSafestPath(dream)
 // El mejor camino es:
 // [0, 0] -> 1
 // [0, 1] -> 3
