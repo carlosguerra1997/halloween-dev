@@ -40,7 +40,7 @@ findTheKiller(whisper2, suspects2); // -> 'Freddy,Freddier,Fredderic'
 ```
 
 ```js
-const whisper3 = '~r~dd$';
+const whisper3 = '~r~dd~$';
 const suspects3 = ['Freddy', 'Freddier', 'Fredderic']
 
 findTheKiller(whisper3, suspects3); // -> 'Freddy'
